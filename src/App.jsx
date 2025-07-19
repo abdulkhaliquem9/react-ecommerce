@@ -8,7 +8,7 @@ function App() {
 
   return (
    <div>
-    Peace
+    Peace 2 all
    </div>
   )
 }
