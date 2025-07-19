@@ -9,6 +9,7 @@ function App() {
   return (
    <div>
     Peace 2 all
+    removed AmazonEC2ContainerRegistryPowerUser policy in IAM.
    </div>
   )
 }
